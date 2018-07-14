@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/aartek/controller/LoginController.java=UTF-8
+encoding//src/main/java/com/aartek/controller/LogoutController.java=UTF-8
+encoding//src/main/java/com/aartek/controller/ProductController.java=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/product.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/registration.jsp=UTF-8

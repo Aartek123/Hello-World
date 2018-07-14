@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="402" key="DIALOG_HEIGHT"/>
+		<item value="433" key="DIALOG_X_ORIGIN"/>
+		<item value="96" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item value="false" key="FilterByLocation"/>
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoService/src/main/java/com/aartek/service/LoginService.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoSample/ZohoRepo/target/classes/com/aartek/model/UserDTO.class&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoWeb/src/main/webapp/WEB-INF/layout/baseLayout.jsp&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoWeb/src/main/webapp/WEB-INF/dispatcher-servlet.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoRepo/src/main/java/com/aartek/repository/RegistrationRepository.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoSample/ZohoRepo/src/main/java/com/aartek/repository/LoginRepository.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoWeb/src/main/webapp/index.jsp&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoWeb/src/main/webapp/WEB-INF/web.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoRepo/src/main/java/com/aartek/repository/LoginRepository.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoSample/ZohoWeb/target/classes/com/aartek/controller/RegistrationController.class&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoSample/ZohoWeb/src/main/java/com/aartek/controller/RegistrationController.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoSample/ZohoWeb/src/main/java/com/aartek/validator/RegistrationValidator.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoWeb/src/main/webapp/WEB-INF/jsp/registration.jsp&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoRepo/src/main/java/com/aartek/model/UserDTO.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoSample/ZohoRepo/src/main/java/com/aartek/repository/RegistrationRepository.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoWeb/src/main/webapp/WEB-INF/tiles.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoRepo/src/main/java/com/aartek/model/ProductDTO.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoSample/ZohoWeb/src/main/java/com/aartek/validator/LoginValidator.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoWeb/src/main/java/com/aartek/controller/LoginController.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoWeb/src/main/webapp/WEB-INF/applicationContext-dao.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoWeb/src/main/resources/hibernate.properties&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoWeb/src/main/java/com/aartek/controller/ProductController.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoWeb/src/main/webapp/WEB-INF/jsp/login.jsp&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/ZohoSample/ZohoWeb/src/main/webapp/WEB-INF/jsp/product.jsp&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="false" key="ShowDerived"/>
+		<section name="DialogBoundsSettings">
+			<item value="493" key="DIALOG_WIDTH"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="523" key="DIALOG_HEIGHT"/>
+			<item value="391" key="DIALOG_X_ORIGIN"/>
+			<item value="39" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>

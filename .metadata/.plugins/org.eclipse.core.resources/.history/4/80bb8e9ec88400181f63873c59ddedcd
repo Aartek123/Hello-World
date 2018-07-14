@@ -1,0 +1,9 @@
+package com.aartek.model;
+
+import javax.persistence.Entity;
+
+@Entity
+@Table
+public class ProductImageDTO {
+
+}

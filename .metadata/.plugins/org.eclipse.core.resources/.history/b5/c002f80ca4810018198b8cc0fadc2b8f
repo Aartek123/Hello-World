@@ -1,0 +1,8 @@
+error.fname.empty=Please Enter First Name
+error.lname.empty=Please Enter Last Name
+error.email.empty=Please Enter Email Address
+error.mobile.empty=Please Enter Mobile no
+
+error.email.rule1=Email Must Include @ Symbol.
+
+

@@ -1,0 +1,8 @@
+package com.aartek.interceptor;
+
+@Component
+public class SessionInterceptor {
+
+	
+	
+}

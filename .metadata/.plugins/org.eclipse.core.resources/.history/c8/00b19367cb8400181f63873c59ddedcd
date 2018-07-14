@@ -1,0 +1,18 @@
+package com.aartek.model;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="product_image")
+public class ProductImageDTO {
+
+	
+	private Integer piid;
+	
+	private String piname;
+	
+	private String pipath;
+	
+	
+}
